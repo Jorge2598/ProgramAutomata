@@ -1,0 +1,17 @@
+body{
+    background-image: url(fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+#c{
+    border: 1px solid aqua;
+    width: 400%;
+    height: 100%;
+}
+
+#cinta{
+    position: relative;
+    left: 600px
+}
